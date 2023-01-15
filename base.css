@@ -1,0 +1,31 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #66D5C4;
+    text-shadow: 1px 2px #000000;
+    background-color: #9B3D12
+    
+}
+
+.wireframe{
+    background-color: white;
+}
+
+.wire-image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%
+    
+}
+
+.wire-image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%
+}
+
+.wire-image1 {
+    margin-bottom: 50px;
+
+}
